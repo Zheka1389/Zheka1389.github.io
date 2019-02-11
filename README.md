@@ -27,4 +27,4 @@ Bicycle, basketball, chess, books, music.
 - [FancyCalc](https://github.com/Zheka1389/FancyCalc)
 - [PadawansTask1](https://github.com/Zheka1389/PadawansTask1)
 - [PadawansTask2](https://github.com/Zheka1389/PadawansTask2)
-- [PadawansTask3](https://gthub.com/Zheka1389/PadawansTask3)
+- [PadawansTask3](https://github.com/Zheka1389/PadawansTask3)
