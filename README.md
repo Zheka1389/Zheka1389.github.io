@@ -23,7 +23,8 @@ My disadvantages include modesty, idealism, I think carefully before deciding.
 ## **Hobbies**
 Bicycle, basketball, chess, books, music.
 ## **URL**
-- https://github.com/Zheka1389/FancyCalc
-- https://github.com/Zheka1389/PadawansTask1
-- https://github.com/Zheka1389/PadawansTask2
-- https://github.com/Zheka1389/PadawansTask3
+- [C# Basics - For Complete Beginners](https://www.udemy.com/certificate/UC-QP3ECOR4/?utm_campaign=email&utm_source=sendgrid.com&utm_medium=email)
+- [FancyCalc](https://github.com/Zheka1389/FancyCalc)
+- [PadawansTask1](https://github.com/Zheka1389/PadawansTask1)
+- [PadawansTask2](https://github.com/Zheka1389/PadawansTask2)
+- [PadawansTask3](https://gthub.com/Zheka1389/PadawansTask3)
