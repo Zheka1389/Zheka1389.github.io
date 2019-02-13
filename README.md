@@ -29,5 +29,6 @@ Bicycle, basketball, chess, books, music.
 - [PadawansTask2](https://github.com/Zheka1389/PadawansTask2)
 - [PadawansTask3](https://github.com/Zheka1389/PadawansTask3)
 - [PadawansTask4](https://github.com/Zheka1389/PadawansTask4)
+- [PadawansTask5](https://github.com/Zheka1389/PadawansTask5)
 - [PadawansTask13](https://github.com/Zheka1389/PadawansTask13)
 - [Fibonacci](https://github.com/Zheka1389/Fibonacci)
