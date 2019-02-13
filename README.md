@@ -30,3 +30,4 @@ Bicycle, basketball, chess, books, music.
 - [PadawansTask3](https://github.com/Zheka1389/PadawansTask3)
 - [PadawansTask4](https://github.com/Zheka1389/PadawansTask4)
 - [PadawansTask13](https://github.com/Zheka1389/PadawansTask13)
+- [Fibonacci](https://github.com/Zheka1389/Fibonacci)
