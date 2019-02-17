@@ -35,6 +35,7 @@ Bicycle, basketball, chess, books, music.
 - [PadawansTask9](https://github.com/Zheka1389/PadawansTask9)
 - [PadawansTask10](https://github.com/Zheka1389/PadawansTask10)
 - [PadawansTask11](https://github.com/Zheka1389/PadawansTask11)
+- [PadawansTask12](https://github.com/Zheka1389/PadawansTask12)
 - [PadawansTask13](https://github.com/Zheka1389/PadawansTask13)
 - [Fibonacci](https://github.com/Zheka1389/Fibonacci)
 - [ConvertAHexStringToRgb](https://github.com/Zheka1389/ConvertAHexStringToRgb)
