@@ -39,3 +39,4 @@ Bicycle, basketball, chess, books, music.
 - [PadawansTask13](https://github.com/Zheka1389/PadawansTask13)
 - [Fibonacci](https://github.com/Zheka1389/Fibonacci)
 - [ConvertAHexStringToRgb](https://github.com/Zheka1389/ConvertAHexStringToRgb)
+- [ManipulateUrlParameters](https://github.com/Zheka1389/ManipulateUrlParameters)
